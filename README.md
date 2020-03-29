@@ -10,7 +10,7 @@ To get Data/Time information using Api:
   http://worldtimeapi.org/api/ip
   
 ## Methods:
-  time_t    **GetTime ( void )**; // Call the Api and get Current Time
+  time_t    **GetTime ( void )**; // Call the http://worldtimeapi.org/api/ip api and get Current Time
   
   void      **ToSerial( void )**; // Print to serial all the information Got.
   
