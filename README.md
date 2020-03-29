@@ -4,7 +4,7 @@ This Library works on ESP8266 and ESP32 to get Date Time and Time Zone using you
 The library use the site:
   http://worldtimeapi.org/
   
-To get Data/Time information using Api
+To get Data/Time information using Api:
   http://worldtimeapi.org/api/ip
   
 ## Methods:
