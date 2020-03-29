@@ -11,11 +11,18 @@ To get Data/Time information using Api:
   
 ## Methods:
   time_t    **GetTime ( void )**; // Call the Api and get Current Time
+  
   void      **ToSerial( void )**; // Print to serial all the information Got.
+  
   
 ## Properties:
   bool                **IsDayLightSaving**; // is true if is in Day Light Saving period
+  
   uint32_t            **TimeZoneOffsetInSeconds**; // seconds offset for your zone including Day Light Saving period
+  
   time_t              **UTCDateTime**; // UTC Date/Time 
+  
   time_t              **DateTime**; // Current Date/Time
+  
   String              **Timezone**; // TimeZone description
+  
