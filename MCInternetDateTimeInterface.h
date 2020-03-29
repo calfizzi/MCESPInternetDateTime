@@ -1,3 +1,8 @@
+/*
+ Name:		MCInternetDateTimeInterface.h
+ Created:	3/29/2020 8:04:04 PM
+ Author:	Calfizzi Mario
+*/
 #pragma once
 #if !defined(MCInternetDateTimeInterface_h)
 #define MCInternetDateTimeInterface_h
